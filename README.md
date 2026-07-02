@@ -13,7 +13,7 @@ Open terminal
 * **Mac:** Command + Spacebar, type Terminal, and hit Return
 * **Linux:** Ctrl + Alt + T in most distros
 
-Enter in command: 
+Enter in command: pip install https://github.com/Sam-OUL/Terminal-Based-Task-List.git
 
 To uninstall enter the command: `pip uninstall tbtl`
 

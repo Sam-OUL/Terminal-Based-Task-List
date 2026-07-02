@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Terminal-Based-Task-List"
+version = "1.0.0"
+description = "Terminal Based Task List (TBTL) is an open source terminal based task/to-do/checklist manager"
+dependencies = []   
+
+[project.scripts]
+tbtl = "src.main:main"

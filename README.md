@@ -18,8 +18,8 @@ Enter in command: `pip install git+https://github.com/Sam-OUL/Terminal-Based-Tas
 To uninstall enter the command: `pip uninstall tbtl`
 
 **Note:** If you get a warning similar to this (WARNING: The script tbtl is installed in '/home/user/.local/bin' which is not on PATH...)
-*Either move it onto path (Search up how depending on your os)
-*Or use the command to run tbtl instead: `python3 -m tbtl`
+* Either move it onto path (Search up how depending on your os)
+* Or use the command to run tbtl instead: `python3 -m tbtl`
  
 
 ## How to use

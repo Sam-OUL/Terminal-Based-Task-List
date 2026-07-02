@@ -1,2 +1,0 @@
-# Terminal-Based-Task-List
-.

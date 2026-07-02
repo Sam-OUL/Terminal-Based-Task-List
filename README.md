@@ -2,6 +2,9 @@
 
 Terminal Based Task List (TBTL) is an open source terminal based task/to-do/checklist manager used within the terminal. Works with Windows, Linux, and MacOS
 
+##WARNING
+Currently broken
+
 ## Requirements:
 * Python 3.7+ (v3.14.6+ for max stability)
 * Nano (v8.7.1 for max stability)
